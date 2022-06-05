@@ -1,3 +1,4 @@
+![code-1076536_1280](https://user-images.githubusercontent.com/88108990/172060252-76825828-3361-49e9-9cb1-bc450938c0c1.jpg)
 
 ### Hi there 👋
  I'm pin, I’m currently learning about IT such as Java , HTML+CSS , Flutter. 
