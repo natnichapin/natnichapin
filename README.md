@@ -1,6 +1,7 @@
-![code-1076536_1280](https://user-images.githubusercontent.com/88108990/172060252-76825828-3361-49e9-9cb1-bc450938c0c1.jpg)
+![code-1076536_1280](https://user-images.githubusercontent.com/88108990/172060304-049307de-972d-40c5-af07-126ac06134d4.jpg)
 
-### Hi there 👋
+
+## Hi there 👋
  I'm pin, I’m currently learning about IT such as Java , HTML+CSS , Flutter. 
  <!--
 **natnichapin/natnichapin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
