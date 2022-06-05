@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-<!--
+ I'm pin, I’m currently learning about IT such as Java , HTML+CSS , Flutter. 
+ <!--
 **natnichapin/natnichapin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
