@@ -1,4 +1,3 @@
-![pHY7qa](https://user-images.githubusercontent.com/88108990/172060181-fa054684-8cec-46dc-8dc0-94ca39177e62.jpg)
 
 ### Hi there 👋
  I'm pin, I’m currently learning about IT such as Java , HTML+CSS , Flutter. 
