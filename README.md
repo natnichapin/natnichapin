@@ -4,6 +4,10 @@
  You can call me pin, I’m currently learning about IT such as Java , HTML+CSS , Flutter. 
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natnichapin&show_icons=true&theme=radical)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natnichapin)](https://github.com/Natnichapin/github-readme-stats)
+ 
+ Thank you for reading.
  <!--
 **natnichapin/natnichapin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
