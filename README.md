@@ -3,7 +3,7 @@
 ## Hi there 👋
  You can call me pin, I’m currently learning about IT such as Java , HTML+CSS , Flutter. 
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natnichapin&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natnichapin&show_icons=true&theme=gruvbox_light)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natnichapin)](https://github.com/Natnichapin/github-readme-stats)
  
