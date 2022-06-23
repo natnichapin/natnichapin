@@ -34,8 +34,8 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
 ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
+<br>
 
- <br>
  ## GIT HUB STAT
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natnichapin&show_icons=true&theme=great-gatsby) &emsp;&emsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natnichapin&show_icons=true&theme=great-gatsby)](https://github.com/Natnichapin/github-readme-stats)
