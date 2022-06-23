@@ -23,14 +23,14 @@
   <h3> 😲 Social Media  </h3>
  <br>
  
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+<a href ="https://www.facebook.com/natnicha.sirinipatkul/"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) </a>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+<a href ="https://www.instagram.com/ppiinntch/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
 ![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
 ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 <br>
 
- ## GIT HUB STAT
+ ## GIT HUB STATS
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natnichapin&show_icons=true&theme=great-gatsby) &emsp;&emsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natnichapin&show_icons=true&theme=great-gatsby)](https://github.com/Natnichapin/github-readme-stats)
  <br> <br>
