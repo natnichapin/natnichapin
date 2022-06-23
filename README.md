@@ -8,8 +8,9 @@
   
 ><h3>Keep going and don't give up</h3> 
  <br><br>
- 🖥️ Languages
+ <h3> 🖥️ Languages</h3>
  <br><br>
+ 
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -17,14 +18,15 @@
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
  <br><br>
- :atom: My other talents 
+<h3> :atom: My other talents </h3>
+<br><br>
  <p align="center">
   🗾 Japanese language : Level N5 ------------
   🖼️ drawing ------------
   😗 Sing a song
 </p>
   <br><br>
-  😲 Social Media  
+  <h3> 😲 Social Media  </h3>
  <br><br>
  
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
@@ -39,7 +41,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natnichapin&show_icons=true&theme=great-gatsby)](https://github.com/Natnichapin/github-readme-stats)
  <br><br>
 
- Thank you for reading.
+ 🐹Thank you for reading.
  <!--
 **natnichapin/natnichapin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
