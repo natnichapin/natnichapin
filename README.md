@@ -1,13 +1,7 @@
 <img src="header.png">
 
 ## Hi there 👋
- You can call me pin, I’m currently learning about IT such as Java , HTML+CSS , Flutter.  
-  <br>
-  
-  
-  
-><h3>Keep going and don't give up</h3> 
- <br>
+ You can call me pin, I’m currently learning about IT such as Java , HTML+CSS , Flutter.   
  <h3> 🖥️ Languages</h3>
  <br>
  
@@ -39,8 +33,9 @@
  ## GIT HUB STAT
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natnichapin&show_icons=true&theme=great-gatsby) &emsp;&emsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natnichapin&show_icons=true&theme=great-gatsby)](https://github.com/Natnichapin/github-readme-stats)
- <br>
-
+ <br> <br>
+ > <h3>Keep going and don't give up</h3> 
+<br>
  🐹Thank you for reading.
  <!--
 **natnichapin/natnichapin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
