@@ -2,12 +2,12 @@
 
 ## Hi there 👋
  You can call me pin, I’m currently learning about IT such as Java , HTML+CSS , Flutter.  
-  <br><br>
+  <br>
   
   
   
 ><h3>Keep going and don't give up</h3> 
- <br><br>
+ <br>
  <h3> 🖥️ Languages</h3>
  <br><br>
  
