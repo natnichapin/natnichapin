@@ -11,11 +11,22 @@
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+  <h3> 🖥️ Framework </h3>
+  <br>
+  
+ ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+ ![NextJs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+ ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+ 
  <br>
 <h3> :atom: My other talents </h3>
 <br>
  <p align="center">
-  🗾 Japanese language : Level N5 ------------
+  🗾 Japanese language: Level N5 ------------
   🖼️ drawing ------------
   😗 Sing a song
 </p>
@@ -35,6 +46,9 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natnichapin&show_icons=true&theme=great-gatsby)](https://github.com/Natnichapin/github-readme-stats)
  <br> <br>
  > <h3>Keep going and don't give up</h3> 
+<br>
+
+![Gists List Card](https://gists-readme.yizack.com/api?user={natnichapin})
 <br>
  🐹Thank you for reading.
  <!--
