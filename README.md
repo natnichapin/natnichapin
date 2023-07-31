@@ -47,9 +47,6 @@
  <br> <br>
  > <h3>Keep going and don't give up</h3> 
 <br>
-
-![Gists List Card](https://gists-readme.yizack.com/api?user={natnichapin})
-<br>
  🐹Thank you for reading.
  <!--
 **natnichapin/natnichapin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
