@@ -25,8 +25,8 @@
 
   <h3> 🎈 Codewars & leetcode  </h3>
    <br>
-  https://www.codewars.com/users/natnichapin
-  https://leetcode.com/natnichapin/
+  - https://www.codewars.com/users/natnichapin <be>
+  - https://leetcode.com/natnichapin/
 
 
    
