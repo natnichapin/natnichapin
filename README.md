@@ -25,11 +25,11 @@
 
   <h3> 🎈 Codewars & leetcode  </h3>
    <br>
-  - https://www.codewars.com/users/natnichapin <be>
+  - https://www.codewars.com/users/natnichapin <br>
   - https://leetcode.com/natnichapin/
 
 
-   
+   <br>
  <br>
 <h3> :atom: My other talents </h3>
 <br>
