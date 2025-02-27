@@ -1,7 +1,7 @@
 <img src="header.png">
 
 ## Hi there 👋
- You can call me pin, I’m currently learning about IT."I am passionately determined to discover and learn new things.
+ You can call me pin, I’m currently learning about IT. I am passionately determined to discover and learn new things.
  <h3> 🖥️ Languages </h3>
  <br>
  
