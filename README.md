@@ -50,8 +50,7 @@
 <a href ="https://www.instagram.com/ppiinntch/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
 ![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
 ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
-![LinkedIn](https://www.linkedin.com/in/natnicha-sirinipatkul-b29159260/)
-<br>
+<a href ="https://www.linkedin.com/in/natnicha-sirinipatkul-b29159260/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <br>
 
  ## GIT HUB STATS
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natnichapin&show_icons=true&theme=great-gatsby) &emsp;&emsp;
